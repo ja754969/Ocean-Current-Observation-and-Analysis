@@ -1,0 +1,8 @@
+_Thumbs.db
+*.exe
+*.tmp
+*.gdoc
+*.asv
+*.zip
+*.tgz
+coding/GSHHS_shp/*

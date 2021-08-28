@@ -1,0 +1,19 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = D:\ctddata\cr2370\C1-1.hdr
+* Software Version Seasave V 7.20g
+* Temperature SN = 6284
+* Conductivity SN = 4751
+* Number of Bytes Per Scan = 34
+* Number of Voltage Words = 5
+* Number of Scans Averaged by the Deck Unit = 1
+* System UpLoad Time = Jun 06 2019 08:44:18
+* NMEA Latitude = 25 09.96 N
+* NMEA Longitude = 121 47.31 E
+* NMEA UTC (Time) = Jun 06 2019  00:44:18
+* Store Lat/Lon Data = Append to Every Scan
+** Ship: OR2
+** Station: C1-1
+** Operator: CR2370
+** 63
+** 55
+*END*
