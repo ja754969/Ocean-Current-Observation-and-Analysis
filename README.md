@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/pYaBaAKIS5Scf-K3TE47og/badge)](https://hackmd.io/pYaBaAKIS5Scf-K3TE47og)
 ###### tags: `NTOU_1071` `NTOU_1072` `NTOU_1081` `NTOU_1082` `NTOU_1091` `海洋學` `洋流學` `氣候變遷`
 {%hackmd SybccZ6XD %}
 # 海洋學科
