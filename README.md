@@ -1,6 +1,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/pYaBaAKIS5Scf-K3TE47og/badge)](https://hackmd.io/pYaBaAKIS5Scf-K3TE47og)
-###### tags: `NTOU_1082` `海洋學` `洋流學` `洋流觀測分析`
+###### tags: `NTOU_1081` `NTOU_1082` `海洋學` `洋流學` `洋流觀測分析`
 {%hackmd SybccZ6XD %}
+# 洋流與觀測分析
 ## [洋流學_1081](https://drive.google.com/drive/u/2/folders/1iFLJbOv92T2-6upnikunCX2AExXVi5xA)
 * [tronclass](https://tronclass.ntou.edu.tw/course/56408/content#/)
 * [Ocean-Circulation-Open-University](https://drive.google.com/open?id=15MXvft-kEol6V5nFFYxhfWtDXIa5Qyu8)
